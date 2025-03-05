@@ -35,3 +35,10 @@ npm install
 npm start
 ```
 This will start the app on http://localhost:3000/.
+
+## **How It Works**
+- Set the Start & End Nodes: Click on the grid to place them.
+- Add Obstacles: Click to create walls that algorithms must navigate around.
+- Choose an Algorithm: Select BFS, DFS, Dijkstra, or A*.
+- Visualize: Watch as the algorithm finds the path.
+- Clear & Try Again: Reset the grid and run another algorithm.
