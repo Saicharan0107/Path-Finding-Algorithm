@@ -23,7 +23,7 @@ A **React-based** interactive visualizer for **pathfinding algorithms**, includi
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/pathfinding-visualizer.git
+git clone https://github.com/saicharan0107/pathfinding-visualizer.git
 cd pathfinding-visualizer
 ```
 ### 2. Install Dependencies
