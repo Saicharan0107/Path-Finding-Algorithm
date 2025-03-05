@@ -42,3 +42,8 @@ This will start the app on http://localhost:3000/.
 - Choose an Algorithm: Select BFS, DFS, Dijkstra, or A*.
 - Visualize: Watch as the algorithm finds the path.
 - Clear & Try Again: Reset the grid and run another algorithm.
+
+## Technologies Used
+- React.js – Component-based UI development.
+- JavaScript (ES6+) – Algorithm implementation.
+- CSS – Grid styling and animations
